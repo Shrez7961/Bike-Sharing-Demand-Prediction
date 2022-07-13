@@ -1,2 +1,2 @@
 # Linear-Regression-Project
-Seoul Bike Sharing Demand Prediction
+Seoul Bike Sharing Demand Prediction: The data includes airline reviews from 2006 to 2019 for popular airlines around the world with multiple choice and free text questions. Data is scrapped in Spring 2019. The main the objective is to predict whether passengers will refer the airline to their friends. We have tested the data and done some Exploratory data analysis to build machine learning models for the prediction of the dependent factor which is the recommendation of airlines by the passenger to his\her friend.
